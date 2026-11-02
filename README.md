@@ -12,9 +12,21 @@ two-player split-screen mode.
 | Five A Day | Deflex | Super Ox Wars |
 | Caverns of Minos | Goat Up | Goat Up 2 |
 
-Released with the permission of Llamasoft. The games are © Llamasoft
+Released with the kind permission of Llamasoft. The games are © Llamasoft
 (Jeff Minter and Ivan Zorzin); this is an unofficial fan project, not made
 or supported by Llamasoft.
+
+## Features
+
+- The Minotaur Project, in full, for the first time since 2013
+- Remastered controls for every game. Real analog controls, rewritten and tuned
+- slick launcher recalling the glory days of the iPad 2
+- portrait games feature unique bezel art inspired by each game
+- support for scores and acheivements
+- two player mode! Play with two ipads onscreen at once
+- works great on Steam Deck
+- support for ultrawide and tate mode
+- separate exes for each game, if you want that
 
 ## Download
 
