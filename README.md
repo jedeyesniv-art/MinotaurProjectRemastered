@@ -21,9 +21,9 @@ or supported by Llamasoft.
 Get it from the [Releases](../../releases/latest) page. There are two
 versions:
 
-- **Minotaur Project Remastered.zip**: everything, games included. Unzip
+- **MinotaurProjectRemastered-1.2.zip**: everything, games included. Unzip
   and play.
-- **Minotaur Project Remastered (bring your own games).zip**: the
+- **MinotaurProjectRemastered-1.2-BringYourOwnGames.zip**: the
   launcher and ports without the games. Put your own decrypted iPad IPAs
   in the `Games` folder beside the launcher (any file names; each game
   finds its own by app ID).
