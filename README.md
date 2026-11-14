@@ -33,9 +33,9 @@ or supported by Llamasoft.
 Get it from the [Releases](../../releases/latest) page. There are two
 versions:
 
-- **MinotaurProjectRemastered-1.2.zip**: everything, games included. Unzip
+- **MinotaurProjectRemastered-1.3.zip**: everything, games included. Unzip
   and play.
-- **MinotaurProjectRemastered-1.2-BringYourOwnGames.zip**: the
+- **MinotaurProjectRemastered-1.3-BringYourOwnGames.zip**: the
   launcher and ports without the games. Put your own decrypted iPad IPAs
   in the `Games` folder beside the launcher (any file names; each game
   finds its own by app ID).
@@ -54,7 +54,11 @@ the Steam Deck under Proton.
 - **F11** or **Alt+Enter** switches a game between fullscreen and a
   window.
 - **Back** (or **Esc**) leaves a game from its title or pause screen.
-  **Start** pauses.
+  **Start** pauses; **B** also leaves from a game's title page.
+- **Menus**: the stick or d-pad moves a red highlight, **A** chooses,
+  **B** goes back a page.
+- **Ship speed** (Gridrunner, Super Ox Wars, Minotron 2112): **LT** and
+  **RT** on the pause screen, remembered per game.
 - Saves and high scores live in the `MPR HLE Port` folder, so keep the
   folder together, and back it up to keep your scores.
 - Each game's exe in `MPR HLE Port` also runs on its own.
